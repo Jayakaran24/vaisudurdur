@@ -1,0 +1,58 @@
+/* General Styles */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+}
+
+/* Container */
+.container {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Header */
+.header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.logo {
+  width: 60px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+h1 {
+  margin: 10px 0;
+  font-size: 32px;
+  color: #333;
+}
+
+.category {
+  font-size: 16px;
+  color: #666;
+}
+
+/* Venture Code */
+.venture-code {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.code {
+  font-weight: bold;
+  color: #4CAF50;
+}
+
+/* Description */
+.description p {
+  line-height: 1.6;
+  color: #444;
+  margin-bottom: 15px;
+}
